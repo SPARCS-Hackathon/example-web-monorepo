@@ -1,4 +1,4 @@
-# [ TEAM Z ] Example Web Monorepo
+# [TEAM Z] Example Web Monorepo
  
 이 Repository는 "예시 해커톤 제출 프로젝트" 의 웹 프론트, 백엔드를 담당하는 Monorepo 입니다. 
 
